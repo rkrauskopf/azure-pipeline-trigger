@@ -1,0 +1,19 @@
+{
+  "name": "azure-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkrauskopf/azure-pipeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkrauskopf/azure-pipeline/issues"
+  },
+  "homepage": "https://github.com/rkrauskopf/azure-pipeline#readme"
+}
